@@ -1,0 +1,1 @@
+#define ADC CS5550 
